@@ -1,0 +1,14 @@
+*.zip
+*.ipynb_checkpoints
+*.ipynb
+*.png
+*.jpg
+*.jpeg
+*.h5
+*.pkl
+*.json
+*.txt
+*.yaml
+*.pth
+*.bin
+*__pycache__*
